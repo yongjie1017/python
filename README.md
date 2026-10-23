@@ -1,2 +1,17 @@
-# python
-python课程实验作业
+# Python 课程作业
+学号：20244080321
+姓名：王永杰
+
+## 作业清单
+1. exp01：实验一
+   文件：`20244080321_王永杰_exp01.ipynb`
+   依赖：`student_utils.py`、`students.txt`、`students.pkl`、`report.txt`
+
+2. hw01：课后作业 01
+   文件：`20244080321_王永杰_hw01.ipynb`
+   说明：独立运行，无额外依赖
+
+## 运行说明
+克隆仓库到本地，使用 VS Code + Jupyter 打开对应的 `.ipynb` 文件，重启内核并全部运行。
+
+> 后续实验、课后作业会持续更新到此仓库。
