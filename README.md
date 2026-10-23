@@ -5,7 +5,7 @@
 ## 作业清单
 1. exp01：实验一
    文件：`20244080321_王永杰_exp01.ipynb`
-   依赖：`student_utils.py`、`students.txt`、`students.pkl`、`report.txt`
+   依赖：`student_utils.py`
 
 2. hw01：课后作业 01
    文件：`20244080321_王永杰_hw01.ipynb`
