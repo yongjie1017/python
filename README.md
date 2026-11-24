@@ -22,6 +22,8 @@
    文件：`20244080321_王永杰_hw03.ipynb`
    依赖：`Iris.csv`（数据集）
    输出：`iris_corrected.csv`
+7. hw04：课后作业 04
+   文件：`20244080321_王永杰_hw04.ipynb`
 
 ## 运行说明
 克隆仓库到本地，使用 VS Code + Jupyter 打开对应的 `.ipynb` 文件，重启内核并全部运行。
